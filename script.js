@@ -3,7 +3,7 @@ let score = 0;
 let coins = 0;
 let questions = [];
 
-fetch('data/questions.json')
+fetch(''Myrtle-Beach-Trivia/data/questions.json')
     .then(res => res.json())
     .then(data => {
         questions = data;
