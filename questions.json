@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Name 3 towns with a beach that are part of The Grand Strand?",
+        "answers": ["Cherry Grove Beach", "North Myrtle Beach", "Myrtle Beach", "Surfside Beach"],
+        "correctIndex": 2
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "answers": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correctIndex": 1
+    },
+    {
+        "question": "Who wrote 'Hamlet'?",
+        "answers": ["Leo Tolstoy", "William Shakespeare", "Mark Twain", "Charles Dickens"],
+        "correctIndex": 1
+    }
+]
